@@ -1,0 +1,32 @@
+body{
+    font-family:'cursive;'
+}
+site-heading-lower{
+    font-family: 'cursive';
+}
+.mb-3{
+   
+    color:  black;
+}
+
+.intro-text{
+    box-shadow: 5px 5px 10px gray rbga(0, 0, 0, 0)
+}
+.root{
+    bs-border-color-translucent: black
+}
+.footer{
+    background-color: rgb(94, 113, 94);
+}
+.container{
+    background-color: rgb(94, 113, 94);
+}
+.navbar{
+    background-color: rgb(94, 113, 94)!important;
+}
+.cta{
+    background-color: rgb(94, 113, 94)!important;
+}
+.portfolio {
+    color:bisque
+}
